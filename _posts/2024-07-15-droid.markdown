@@ -1,0 +1,12 @@
+---
+layout: post
+title: "DROID: A Large-Scale In-the-Wild Robot Manipulation Dataset"
+date: 2024-07-15 00:00:00 +00:00
+image: /images/droid.mp4
+categories: research
+venue: "Robotics: Science and Systems (RSS)"
+authors: "Alexander Khazatsky*, Karl Pertsch*, ..., <strong>Daphne Chen</strong>, ..."
+arxiv: https://arxiv.org/abs/2403.12945
+website: https://droid-dataset.github.io/
+---
+A large-scale, in-the-wild robot manipulation dataset spanning diverse scenes, tasks, and environments to support generalizable robot learning.
