@@ -2,7 +2,7 @@
 layout: post
 title: "A Few Words Go a Long Way: Language Guided Robot Policy Synthesis"
 date: 2026-07-14 00:00:00 +00:00
-image: /images/architect.png
+image: /images/architect.mp4
 categories: research
 venue: "Under Review"
 authors: "<strong>Daphne Chen</strong>, Archit Ritesh Jain, Eric Goossen, Emma Romig, Michael Murray, Nick Walker, Maya Cakmak"
