@@ -8,5 +8,6 @@ venue: "ICLR"
 authors: "Paresh Chaudhary, Yancheng Liang, <strong>Daphne Chen</strong>, Simon S. Du, Natasha Jaques"
 arxiv: https://arxiv.org/abs/2504.15457
 website: https://sites.google.com/view/goat-2025/home
+code: https://github.com/pareshrchaudhary/cooperative_matrix_game
 ---
 We use generative models in an online adversarial training loop to train the learning agent against difficult coordination scenarios while maintaining realistic behavior.
